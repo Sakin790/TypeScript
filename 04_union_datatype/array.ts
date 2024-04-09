@@ -12,3 +12,8 @@ console.log(username)
 
 let mixArray : (number| string)[]
 mixArray= ["Thor", 12]
+
+let mixArr : (boolean| number| string)[]
+
+mixArr = ["Captain",117, false]
+console.log(mixArr[2])
