@@ -4,3 +4,6 @@ console.log(user[1]);
 var username;
 username = ["mahid",];
 console.log(username);
+//multiple value assinged
+var mixArray;
+mixArray = ["Thor", 12];

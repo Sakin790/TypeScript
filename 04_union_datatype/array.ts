@@ -6,3 +6,9 @@ console.log(user[1])
 let username :Array<string>
 username = ["mahid",]
 console.log(username)
+
+//multiple value assinged
+
+
+let mixArray : (number| string)[]
+mixArray= ["Thor", 12]
