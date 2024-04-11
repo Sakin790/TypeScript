@@ -1,5 +1,5 @@
 var car = /** @class */ (function () {
-    // contrcuction elta function jeta value niye propertis er modde add kore
+    // contrcuction ekta function jeta value={peramiter} niye propertis er modde add kore
     function car(brandName, modelName, batteryName) {
         //this is propertis
         this.brand = brandName;

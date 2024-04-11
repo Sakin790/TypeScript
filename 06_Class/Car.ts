@@ -3,7 +3,7 @@ class car {
   model: number;
   battery: string;
 
-  // contrcuction elta function jeta value niye propertis er modde add kore
+  // contrcuction ekta function jeta value={peramiter} niye propertis er modde add kore
   constructor(brandName: string, modelName: number, batteryName: string) {
     //this is propertis
     this.brand = brandName;
