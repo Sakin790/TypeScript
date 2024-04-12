@@ -29,8 +29,8 @@ r tumi chaccho ager class er properties gulo new class er moddhe rakhte
 class Student extends User {
   gpa: number;
 
-  constructor(username: string, age: number, gpa) {
-    super(username, age);// agulo ager class theke niyechi
+  constructor(username: string, age: number, gpa: number) {
+    super(username, age); // agulo ager class theke niyechi
     this.gpa = gpa;
   }
 }
